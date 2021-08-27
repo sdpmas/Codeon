@@ -20,6 +20,10 @@ Example:
 1. Code and all the details will be uploaded soon.
 
 
+## Feedback:
+Form: https://forms.gle/urfKTGLcLrSnEdLG9
+
+Contact: sdpmas@live.unc.edu
 
 
 
