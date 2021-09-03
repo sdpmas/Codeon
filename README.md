@@ -2,7 +2,8 @@
 
 
 A code generation system augmented with code search. Code search is done over the python code on GitHub, and is displayed in the file named codeExamples.py. The generation model makes use of search results to generate contextual code.
-
+![Demo Video Light](./demo1.gif)
+--
 ![Demo Video](./codeon.gif)
 
 ## Usage:
