@@ -4,6 +4,11 @@ Code generation and code search for Python and Javascript.
 
 Similar to [GitHub Copilot](https://copilot.github.com/) with one major difference: Code search is leveraged to make up for smaller models and less data. The generation model makes use of search results along with code context to generate contextual code. Moreover, code search results from all over GitHub are displayed in a seperate file along with the exact url of the source code. 
 
+
+### VSCode extention:
+https://marketplace.visualstudio.com/items?itemName=samipdahal.codeon
+
+
 ### Code Generation:
 
 Currently, [GPT-Neo-125M model](https://huggingface.co/EleutherAI/gpt-neo-125M) is used for generation.
